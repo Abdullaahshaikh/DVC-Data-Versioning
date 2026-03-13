@@ -11,7 +11,10 @@ def create_dataframe():
             "Very bad experience",
             "Good quality and nice design",
             "Worst product ever",
-            "Excellent and fantastic item"
+            "Excellent and fantastic item",
+            "Excellent item",
+            "New product"
+            
         ]
     }
 
